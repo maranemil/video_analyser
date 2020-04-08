@@ -1,0 +1,139 @@
+https://notube.net/convert-en/en
+https://www.clipconverter.cc/de/2/
+https://www.youtube.com/watch?v=F4IzxGU4-wg
+--------------------
+https://saveas.co/
+https://www.getfvid.com/de
+https://www.facebook.com/SXSWFestival/videos/2286936354895593/
+---------------
+https://www.instagram.com/p/B2wgtuyjUmK/
+https://www.instagram.com/p/BXihXgthfRV/
+https://www.instagram.com/p/BxTTu50A5nP/
+https://www.instagram.com/p/B-mkeq0JUDD/
+https://www.instagram.com/p/B-pnpcen6zX/
+https://www.instagram.com/p/B-pnli3jItV/
+https://www.instagram.com/p/BheIdnPgA4V/
+https://www.instagram.com/p/B-pg0Hdlf_7/
+https://www.instagram.com/p/B99vd_uB9eO/
+https://www.instagram.com/p/B-pg0Hdlf_7/
+https://www.instagram.com/p/B-UUEcGDTc2/
+https://www.instagram.com/p/B-Jh2U6DzGr/
+https://www.instagram.com/p/B-pfRQZDQoE/
+https://www.instagram.com/p/B-pm87tpq-H/
+https://www.instagram.com/p/B-mxOJeJOSA/
+https://www.instagram.com/p/B-ITrD9FTyy/
+https://www.instagram.com/bestdiscovery/
+https://www.instagram.com/explore/tags/video/
+https://www.instagram.com/p/B-H13uwgNRK/
+https://www.downloadvideosfrom.com/de/Instagram.php
+------------------------------------------
+sudo snap install vlc
+sudo apt-get install vlc
+
+MPV Player
+sudo add-apt-repository ppa:mc3man/mpv-tests
+sudo apt-get update
+sudo apt-get install -y mpv
+
+Gnome Videos
+sudo apt-get install totem libtotem0
+------------------------------------------
+mp4 codec
+
+sudo apt-get install libxvidcore4 gstreamer1.0-plugins-base gstreamer1.0-plugins-good gstreamer1.0-plugins-ugly gstreamer1.0-plugins-bad gstreamer1.0-alsa gstreamer1.0-libav
+
+------------------------------------------
+sudo snap install pycharm-community --classic
+------------------------------------------
+
+http://www.scikit-video.org/stable/
+https://scikit-learn.org/stable/index.html
+https://scikit-image.org/docs/dev/auto_examples/index.html
+https://www.scipy.org/scikits.html
+https://scikit-image.org/
+
+
+http://work.thaslwanter.at/sksound/html/
+https://sites.google.com/site/ldpyproject/scikits-audiolab
+------------------------------------------
+
+ffmpeg -i input.flv -ss 00:00:14.435 -vframes 1 out.png # one pic
+
+rm split/*
+ffmpeg -i load/SXSW1.mp4 -vf fps=1  split/out%03d.png    # every second
+ffmpeg -i load/SXSW1.mp4 -vf fps=1/60  split/out%03d.png # every minute
+ffmpeg -i load/SXSW1.mp4 -vf fps=1/600 thumb%04d.png     # every 10 minutes
+
+-----------------------------------------------
+
+pip3 install scikit-image
+pip3 install scikit-video
+pip3 install scikit-learn
+pip3 install colorthief
+pip3 install opencv-python
+
+https://scikit-image.org/docs/dev/api/skimage.io.html#skimage.io.imread
+https://scikit-image.org/docs/dev/api/skimage.io.html
+https://scikit-image.org/docs/dev/user_guide/numpy_images.html
+https://scikit-image.org/docs/dev/api/skimage.viewer.utils.html
+https://stackoverflow.com/questions/3241929/python-find-dominant-most-common-color-in-an-image/3242290
+https://scipy-lectures.org/packages/scikit-image/index.html
+https://pillow.readthedocs.io/en/3.1.x/reference/Image.html
+https://stackoverflow.com/questions/46618837/how-do-i-convert-a-text-file-of-rgb-values-into-a-png-file
+https://matplotlib.org/tutorials/colors/colors.html
+https://matplotlib.org/3.1.1/tutorials/colors/colormap-manipulation.html
+https://pyhurry.readthedocs.io/en/latest/lists.html
+https://stackoverflow.com/questions/16296643/convert-tuple-to-list-and-back
+https://pythonspot.com/convert-tuple/
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
+https://pypi.org/project/opencv-python/
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_table_of_contents_imgproc/py_table_of_contents_imgproc.html#py-table-of-content-imgproc
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection
+https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection
+https://pyhurry.readthedocs.io/en/latest/lists.html
+https://www.geeksforgeeks.org/python-string-split/
+https://stackoverflow.com/questions/14531346/how-to-add-a-text-into-a-rectangle
+https://www.programcreek.com/python/example/61406/matplotlib.patches.Rectangle
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.colors.rgb_to_hsv.html#matplotlib.colors.rgb_to_hsv
+https://matplotlib.org/3.1.1/api/_as_gen/matplotlib.colors.to_rgba.html#matplotlib.colors.to_rgba
+https://matplotlib.org/3.1.1/api/colors_api.html
+https://matplotlib.org/api/_as_gen/matplotlib.colors.to_rgba.html
+https://matplotlib.org/3.1.0/tutorials/colors/colors.html
+https://matplotlib.org/1.5.1/api/colors_api.html
+https://matplotlib.org/3.1.1/gallery/axes_grid1/simple_rgb.html
+https://matplotlib.org/3.2.1/gallery/axes_grid1/simple_rgb.html
+https://scipy-lectures.org/packages/scikit-image/auto_examples/plot_labels.html#sphx-glr-packages-scikit-image-auto-examples-plot-labels-py
+https://scikit-image.org/docs/dev/auto_examples/segmentation/plot_label.html#sphx-glr-auto-examples-segmentation-plot-label-py
+https://scikit-image.org/docs/dev/auto_examples/segmentation/plot_rag_mean_color.html#sphx-glr-auto-examples-segmentation-plot-rag-mean-color-py
+https://scikit-image.org/docs/dev/auto_examples/segmentation/plot_marked_watershed.html#sphx-glr-auto-examples-segmentation-plot-marked-watershed-py
+https://scikit-image.org/docs/dev/auto_examples/segmentation/plot_rag_merge.html#sphx-glr-auto-examples-segmentation-plot-rag-merge-py
+https://scikit-image.org/docs/dev/auto_examples/filters/plot_entropy.html#sphx-glr-auto-examples-filters-plot-entropy-py
+https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_haar.html#sphx-glr-auto-examples-features-detection-plot-haar-py
+https://scikit-image.org/docs/dev/auto_examples/features_detection/plot_blob.html#sphx-glr-auto-examples-features-detection-plot-blob-py
+https://scikit-image.org/docs/dev/auto_examples/segmentation/plot_ncut.html#sphx-glr-auto-examples-segmentation-plot-ncut-py
+https://scikit-image.org/docs/dev/auto_examples/segmentation/plot_rag_mean_color.html#sphx-glr-auto-examples-segmentation-plot-rag-mean-color-py
+https://scikit-image.org/docs/dev/auto_examples/segmentation/plot_rag_merge.html#sphx-glr-auto-examples-segmentation-plot-rag-merge-py
+https://scikit-image.org/docs/dev/auto_examples/data/plot_specific.html#sphx-glr-auto-examples-data-plot-specific-py
+
+
+
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_frontalface_default.xml
+https://github.com/opencv/opencv/blob/master/data/haarcascades_cuda/haarcascade_frontalface_default.xml
+https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_eye.xml
+https://raw.githubusercontent.com/opencv/opencv/master/data/haarcascades/haarcascade_eye.xml
+
+
+sudo apt install imagemagick-6.q16 -y
+convert image.ppm image.png
+
+
+https://www.tensorflow.org/tutorials/
+https://www.tensorflow.org/tutorials/
+https://github.com/tensorflow/models
+https://github.com/tensorflow/docs
+https://github.com/pytorch/tutorials
+https://github.com/tensorflow/hub
+
+
+
