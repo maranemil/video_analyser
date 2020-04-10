@@ -17,13 +17,12 @@ sudo apt install git -y
 sudo apt install ffmpeg -y
 
 # python libs
-pip3 install scikit-image
-pip3 install scikit-video
-pip3 install scikit-learn
-pip3 install colorthief
-pip3 install opencv-python
-pip3 install matplotlib
-pip3 install scipy
-pip3 install colorthief
 pip3 install colormap
+pip3 install colorthief
 pip3 install easydev
+pip3 install matplotlib
+pip3 install opencv-python
+pip3 install scikit-image
+pip3 install scikit-learn
+pip3 install scikit-video
+pip3 install scipy

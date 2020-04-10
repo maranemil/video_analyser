@@ -10,7 +10,7 @@ import scipy.cluster
 NUM_CLUSTERS = 2
 
 print('reading image')
-im = Image.open('split/out042.png')
+im = Image.open('../split/out042.png')
 converter = ImageEnhance.Color(im)
 im2 = converter.enhance(2.0)
 im = im2.resize((150, 150))  # optional, to reduce time
@@ -42,7 +42,7 @@ print('saved clustered image')
 
 
 from colorthief import ColorThief
-color_thief = ColorThief('split/out003.png')
+color_thief = ColorThief('../split/out003.png')
 # get the dominant color
 dominant_color = color_thief.get_color(quality=6)
 print('most dominant color is ', dominant_color)
