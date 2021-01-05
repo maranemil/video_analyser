@@ -156,5 +156,56 @@ https://colab.research.google.com/notebooks/magenta/piano_transformer/piano_tran
 https://colab.research.google.com/notebooks/magenta/gansynth/gansynth_demo.ipynb
 https://pytorch.org/tutorials/beginner/audio_preprocessing_tutorial.html
 
+------------------------------------------------------------------------------------------
+
+Below is the list of some popular unsupervised learning algorithms:
+
+K-means clustering
+KNN (k-nearest neighbors)
+Hierarchal clustering
+Anomaly detection
+Neural Networks
+Principle Component Analysis
+Independent Component Analysis
+Apriori algorithm
+Singular value decomposition
+
+------------------------------------------------------------------------------------------
+
+https://php-ml.readthedocs.io/en/latest/
+https://phppedia.com/en/tutorial/5453/machine-learning
+https://github.com/crodas/phpcluster
+https://scikit-learn.org/stable/unsupervised_learning.html
+
+https://www.youtube.com/watch?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP&v=V9Roouqfu-M
+https://www.youtube.com/watch?v=lEfrr0Yr684
+https://www.youtube.com/watch?v=UhVn2WrzMnI
+https://www.youtube.com/watch?v=QXOkPvFM6NU
+https://www.youtube.com/watch?v=esmzYhuFnds
+
+------------------------------------------------------------------------------------------
+
+https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-unsupervised-learning
+https://www.javatpoint.com/unsupervised-machine-learning
+https://sites.google.com/view/berkeley-cs294-158-sp20/home
+https://www.toptal.com/machine-learning/machine-learning-theory-an-introductory-primer
+https://blogs.nvidia.com/blog/2018/08/02/supervised-unsupervised-learning/
+https://www.oreilly.com/library/view/hands-on-unsupervised-learning/9781492035633/ch01.html
+https://explore.iteratec.com/blog/machine-learning-tutorial-teil-1
+https://deeplizard.com/learn/video/lEfrr0Yr684
+https://www.infoworld.com/article/3429017/unsupervised-learning-explained.html
+https://www.coursera.org/lecture/machine-learning/unsupervised-learning-olRZo
+
+------------------------------------------------------------------------------------------
+
+https://towardsdatascience.com/unsupervised-machine-learning-example-in-keras-8c8bf9e63ee0
+https://builtin.com/data-science/unsupervised-learning-python
+https://www.geeksforgeeks.org/supervised-unsupervised-learning/
+https://thedatafrog.com/en/articles/dogs-vs-cats/
+https://data-flair.training/blogs/cats-dogs-classification-deep-learning-project-beginners/
+https://towardsdatascience.com/image-classifier-cats-vs-dogs-with-convolutional-neural-networks-cnns-and-google-colabs-4e9af21ae7a8
+https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-to-classify-photos-of-dogs-and-cats/
+
+
 
 
